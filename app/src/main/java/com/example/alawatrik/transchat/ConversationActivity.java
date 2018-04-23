@@ -295,6 +295,11 @@ public class ConversationActivity extends AppCompatActivity {
             
 
             String push_id = user_message_push.getKey();
+
+
+
+
+
             Date currentTime = Calendar.getInstance().getTime();
             Map messageMap = new HashMap();
             messageMap.put("message", message);
