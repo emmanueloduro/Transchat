@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772361640851",
+    "firebase_url": "https://transchat-874bb.firebaseio.com",
+    "project_id": "transchat-874bb",
+    "storage_bucket": "transchat-874bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772361640851:android:98a39b4fd1876e7b",
+        "android_client_info": {
+          "package_name": "com.example.alawatrik.transchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772361640851-lnvoq4q3bjfihlkgt0phc29ofagarnh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alawatrik.transchat",
+            "certificate_hash": "1731a30e766674fcbfb7c5943cd363d6526365c4"
+          }
+        },
+        {
+          "client_id": "772361640851-2ejmlag452rgv8g8r9h7lgnau7dcjcn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvjJxDLDVrPbpBjGxVBKuaybkmq93bhC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772361640851-2ejmlag452rgv8g8r9h7lgnau7dcjcn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

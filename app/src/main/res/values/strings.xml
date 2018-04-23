@@ -1,0 +1,83 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">TransChat</string>
+    <string name="button">Get Started</string>
+
+    <string name="phone_number_verification">Phone number verification</string>
+    <string name="enter_code">Enter code</string>
+    <string name="select_user_name">Select User name.</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="next">Next</string>
+
+
+    <string name="language_prompt">Choose a Language</string>
+    <string name="you_are_just_a_step_away">You are just a step away</string>
+    <string name="select_language_n_you_will_receive_all_messages_in_this_language_n_you_can_change_it_later_under_settings">Select Language. You will receive all messages in this language. You can change it later under settings</string>
+    <string name="upload_profile_picture">Upload Profile Picture</string>
+    <string name="enter_nickname">Enter username </string>
+    <string name="profile_picture">Choose profile picture</string>
+    <string name="phone_number">Phone number</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="send_code">Send Code</string>
+
+    <string name="chatactivity_test">ChatActivity test</string>
+    <string name="select_language_of_preference">Select Language of preference</string>
+    <string name="english">English</string>
+    <string name="choose_profile_picture">Choose Profile picture</string>
+    <string name="select_username">Select username</string>
+    <string name="transchat">TransChat Registration</string>
+    <string name="submit">Submit</string>
+    <string name="srch">srch</string>
+    <string name="select_a_contact">Select a Contact</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_record">Record Video</string>
+    <string name="action_save">Save</string>
+    <string name="action_label">Add Label</string>
+    <string name="action_play">Play Video</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="refresh">Refresh</string>
+    <string name="todo">TODO</string>
+    <string name="enter_mobile_no">Enter mobile no</string>
+
+
+    <string name="enter_otp">enter code</string>
+
+    <string-array name="country_arrays">
+        <item android:color="#fff">English</item>
+        <item android:color="#fff">French</item>
+        <item android:color="#fff">Portuguese</item>
+        <item android:color="#fff">Spanish</item>
+        <item android:color="#fff">Italian</item>
+        <item android:color="#fff">German</item>
+    </string-array>
+
+    <string name="you_have_no_chats_yet">You have no chats yet</string>
+    <string name="you_have_no_friends_yet">You have no friends yet</string>
+    <string name="change_profile_image">Change Profile picture</string>
+    <string name="select_status">select status</string>
+    <string name="your_status">Your Status</string>
+    <string name="start">start</string>
+    <string name="save_changes">SAVE CHANGES</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="change_image">UPLOAD IMAGE</string>
+    <string name="hi_there_am_using_transchat">Hi There! Am using TransChat</string>
+
+    <string name="user_default_status">User default Status</string>
+    <string name="enter_message">Enter Message...</string>
+    <string name="display_name">Display name</string>
+    <string name="transchat_will_send_a_verification_code_to_your_phone_number_and_automatically_verify_the_number">Transchat will send a verification code to your phone number and automatically verify the number.</string>
+    <string name="start_verification">START VERIFICATION</string>
+    <string name="restart_verification">RESTART VERIFICATION</string>
+    <string name="restart">RESTART</string>
+
+    <string name="resend">RESEND</string>
+
+    <string name="verify">VERIFY</string>
+    <string name="code">code</string>
+    <string name="textview">TextView</string>
+    <string name="time">time</string>
+
+</resources>
